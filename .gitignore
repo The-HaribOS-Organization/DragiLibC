@@ -1,0 +1,6 @@
+# Editor folders
+.vscode/
+
+# Build folders
+obj/
+build/
